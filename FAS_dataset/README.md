@@ -5,6 +5,7 @@ The NZ-FAS Strong Motion intensity measure database was developed by Manea et al
 If you are using the flat files, please read and cite the following articles:
 
 
+
 Manea, E.F., Bora, S.S., Hutchinson, A.J., Kaiser, E.A (2023). Uniformly processed Fourier spectra amplitude database for recently compiled New Zealand strong ground motions. Seismological Research Letters
 
 
