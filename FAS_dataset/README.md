@@ -20,11 +20,3 @@ NZ NSHM 2022 :
 
 GNS Science. (2021). Aotearoa/New Zealand GeoNet Seismic Digital Waveform [Data set]. GNS Science. https://doi.org/10.21420/G19Y-9D40
 
-Flat files
-Parameters extracted for the entire earthquake waveform:
-
-LINK1
-
-Parameters extracted for the S-wave window:
-
-LINK2
