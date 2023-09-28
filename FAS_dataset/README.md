@@ -4,9 +4,13 @@ The NZ-FAS Strong Motion intensity measure database was developed by Manea et al
 
 If you are using the flat files, please read and cite the following articles:
 Manea, E.F., Bora, S.S., Hutchinson, A.J., Kaiser, E.A (2023). Uniformly processed Fourier spectra amplitude database for recently compiled New Zealand strong ground motions. Seismological Research Letters
+
 Wotherspoon, L.M., Kaiser, A. E., Stolte, A., Manea, E. F. (2023). Development of the site characterization database for the 2022 New Zealand National Seismic Hazard Model. Seismological Research Letters.
+
 Hutchinson, J., C. Zhu, B. Bradley, R. Lee, L. Wotherspoon, M. Dupuis, C. Schill, J. Motha, E. Manea, and A. Kaiser (2023). New Zealand ground motion database. Bulletin of the Seismological Society of America (submitted).
+
 NZ NSHM 2022 : 
+
 
 GNS Science. (2021). Aotearoa/New Zealand GeoNet Seismic Digital Waveform [Data set]. GNS Science. https://doi.org/10.21420/G19Y-9D40
 
