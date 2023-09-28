@@ -15,7 +15,7 @@ Wotherspoon, L.M., Kaiser, A. E., Stolte, A., Manea, E. F. (2023). Development o
 Hutchinson, J., C. Zhu, B. Bradley, R. Lee, L. Wotherspoon, M. Dupuis, C. Schill, J. Motha, E. Manea, and A. Kaiser (2023). New Zealand ground motion database. Bulletin of the Seismological Society of America (submitted).
 
 
-NZ NSHM 2022 : 
+Gerstenberger, M.C., Bora, S.S., Bradley, B.A., Dicaprio, C., Kaiser, A., Manea, E.F., Nicol, A., Stirling, M.W., Thingbaijam, K.K.S. et al. (2023) The 2022 New Zealand National Seismic Hazard Model: Process, Overview and Results. Bulletin of the Seismological Society of America
 
 
 GNS Science. (2021). Aotearoa/New Zealand GeoNet Seismic Digital Waveform [Data set]. GNS Science. https://doi.org/10.21420/G19Y-9D40
