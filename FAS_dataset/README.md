@@ -7,14 +7,13 @@ If you are using the flat files, please read and cite the following articles:
 
 
 
-Manea, E.F., Bora, S.S., Hutchinson, A.J., Kaiser, E.A (2023). Uniformly processed Fourier spectra amplitude database for recently compiled New Zealand strong ground motions. Seismological Research Letters
+Manea, E. F., Bora, S. S., Hutchinson, J. A., & Kaiser, A. E. (2024). Uniformly processed Fourier spectra amplitude database for recently compiled New Zealand strong ground motions. Seismological Research Letters, 95(1), 239-252.
 
 
-Wotherspoon, L.M., Kaiser, A. E., Stolte, A., Manea, E. F. (2023). Development of the site characterization database for the 2022 New Zealand National Seismic Hazard Model. Seismological Research Letters.
+Wotherspoon, L. M., Kaiser, A. E., Stolte, A. C., & Manea, E. F. (2024). Development of the site characterization database for the 2022 New Zealand National Seismic Hazard Model. Seismological Research Letters, 95(1), 214-225.
 
 
-Gerstenberger, M.C., Bora, S.S., Bradley, B.A., Dicaprio, C., Kaiser, A., Manea, E.F., Nicol, A., Stirling, M.W., Thingbaijam, K.K.S. et al. (2023) The 2022 New Zealand National Seismic Hazard Model: Process, Overview and Results. Bulletin of the Seismological Society of America
-
+Gerstenberger, M. C., Bora, S., Bradley, B. A., DiCaprio, C., Kaiser, A., Manea, E. F., ... & Wotherspoon, L. M. (2024). The 2022 Aotearoa New Zealand National Seismic Hazard Model: Process, Overview, and Results. Bulletin of the Seismological Society of America, 114(1), 7-36.
 
 GNS Science. (2021). Aotearoa/New Zealand GeoNet Seismic Digital Waveform [Data set]. GNS Science. https://doi.org/10.21420/G19Y-9D40
 
