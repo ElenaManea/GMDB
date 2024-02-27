@@ -13,9 +13,6 @@ Manea, E.F., Bora, S.S., Hutchinson, A.J., Kaiser, E.A (2023). Uniformly process
 Wotherspoon, L.M., Kaiser, A. E., Stolte, A., Manea, E. F. (2023). Development of the site characterization database for the 2022 New Zealand National Seismic Hazard Model. Seismological Research Letters.
 
 
-Hutchinson, J., C. Zhu, B. Bradley, R. Lee, L. Wotherspoon, M. Dupuis, C. Schill, J. Motha, E. Manea, and A. Kaiser (2023). New Zealand ground motion database. Bulletin of the Seismological Society of America (submitted).
-
-
 Gerstenberger, M.C., Bora, S.S., Bradley, B.A., Dicaprio, C., Kaiser, A., Manea, E.F., Nicol, A., Stirling, M.W., Thingbaijam, K.K.S. et al. (2023) The 2022 New Zealand National Seismic Hazard Model: Process, Overview and Results. Bulletin of the Seismological Society of America
 
 
